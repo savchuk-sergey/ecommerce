@@ -1,0 +1,5 @@
+{
+  "extends": "tsconfig/nextjs.json",
+  "include": ["./src/vite-env.d.ts", "**/*.ts", "**/*.tsx", "./.eslintrc.js", "next.config.js", "dom"],
+  "exclude": ["node_modules", ".next"]
+}
