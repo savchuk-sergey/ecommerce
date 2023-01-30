@@ -31,3 +31,4 @@ yarn-error.log*
 
 # turbo
 .turbo
+/apps/ui-kit-workshop/storybook-static/
